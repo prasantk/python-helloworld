@@ -1,2 +1,2 @@
 import os
-print "Hello World from %s !" % os.environ['NAME']
+print "Hello World Folks from %s !" % os.environ['NAME']
